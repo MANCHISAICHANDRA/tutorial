@@ -7,5 +7,7 @@ noodles
 biryani
 pizza
 
+chicken fry
+
 
 thank you
